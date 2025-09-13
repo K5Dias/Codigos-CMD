@@ -1,4 +1,4 @@
-# Codigos CMD 👀
+ # $~~~~~~~~~$  Codigos CMD 🎲
 
 ---
 
@@ -57,3 +57,5 @@ $~~~~~~~~~~~~~~~~$ shuttdown /r - reinicia.
 ---
 
 **`ncpa.cpl`** - Abre a janela de Conexões de Rede, permitindo gerenciar adaptadores de rede e configurações de rede.
+
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$👀
