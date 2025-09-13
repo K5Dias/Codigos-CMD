@@ -30,10 +30,6 @@ $~~~~~~~~~~~~~~~~$ shuttdown /r - reinicia.
 
 ---
 
-**`devmgmt.msc`** - Abrir o gerenciador de de dispositivos.
-
----
-
 **`powercfg`** - Gerenciar energia.
 
 */batteryreport* - Gera um relatório detalhado da saúde e uso da bateria do seu notebook em um arquivo HTML. O caminho para o arquivo será exibido na janela do Prompt de Comando. 
